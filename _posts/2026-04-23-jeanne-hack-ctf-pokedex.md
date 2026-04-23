@@ -1,5 +1,5 @@
 ---
-title: Jeanne Hack CTF 2026 - Pokedex Writeup
+title: Jeanne Hack CTF 2026 - Pokedex
 date: 2026-04-23 14:00:00 +0300
 categories: [Pwn]
 tags: [ctf, pwn, heap, uaf, double-free, tcache-poisoning, libc, glibc-2.27, pwntools]
