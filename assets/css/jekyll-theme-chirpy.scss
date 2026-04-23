@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+
+body {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+a:hover {
+  text-shadow: 0 0 6px rgba(0, 255, 140, 0.5);
+}
+
+pre {
+  border: 1px solid rgba(0, 255, 140, 0.2);
+}
+
+.post-tag {
+  border: 1px solid rgba(0, 255, 140, 0.3);
+  border-radius: 999px;
+}
