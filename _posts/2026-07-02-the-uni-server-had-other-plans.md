@@ -1,6 +1,6 @@
 ---
 title: "The Uni Server Had Other Plans"
-date: 2026-07-02 12:00:00 +0300
+date: 2026-07-02 00:00:00 +0300
 categories: [Security]
 tags: [linux, privilege-escalation, copyfail, cve-2026-31431]
 ---
